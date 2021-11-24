@@ -1,21 +1,8 @@
-# GDE Profile Badge Generator
+# Google Developer Profile URL Cover Generator
 
 ![](https://i.imgur.com/AfxZ5j6.png)
 
-> Generate your GDE Profile Badge directly in your browser. No extra software required!
-
-
-## Features
-
-:white_check_mark: No need to install Photoshop!
-
-:white_check_mark: Generate the profile badge in full resolution
-
-:white_check_mark: Customizable category name
-
-:white_check_mark: Crop image to square or circle
-
-:white_check_mark: Drag and drop to upload image
+> Generate your cover picture for [Google Developer Profile URL](https://twitter.com/googledevs/status/1462903723752046601) directly in your browser.
 
 
 ## License
