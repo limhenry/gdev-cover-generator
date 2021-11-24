@@ -1,6 +1,6 @@
 # Google Developer Profile URL Cover Generator
 
-![](https://i.imgur.com/AfxZ5j6.png)
+![](https://i.imgur.com/Wfd1maI.png)
 
 > Generate your cover picture for [Google Developer Profile URL](https://twitter.com/googledevs/status/1462903723752046601) directly in your browser.
 
