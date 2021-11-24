@@ -37,13 +37,15 @@
 
   header {
     background-color: #fff;
-    height: 76px;
+    min-height: 76px;
     display: flex;
     align-items: center;
     justify-content: center;
     font-size: 24px;
     box-shadow: 0 2px 4px -1px rgba(0, 0, 0, .2), 0 4px 5px 0 rgba(0, 0, 0, .14), 0 1px 10px 0 rgba(0, 0, 0, .12);
     z-index: 1;
+    text-align: center;
+    padding: 8px;
   }
 
   .main-container {
@@ -102,8 +104,8 @@
   }
 
   canvas {
-    width: 2160px;
-    max-width: 80%;
+    width: 1200px;
+    max-width: 85%;
   }
 
   .download-fab {
@@ -129,8 +131,8 @@
 
   @media screen and (max-width: 860px) {
     header {
-      height: 56px;
-      font-size: 20px;
+      min-height: 56px;
+      font-size: 18px;
     }
     .main-container {
       flex-direction: column;
@@ -150,6 +152,9 @@
     .download-fab {
       width: 56px;
       height: 56px;
+    }
+    canvas {
+      max-width: 90%;
     }
   } 
 </style>
